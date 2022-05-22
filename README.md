@@ -1,2 +1,2 @@
-# Shoppify
+# REACT_PRACTISE
 Created with CodeSandbox
